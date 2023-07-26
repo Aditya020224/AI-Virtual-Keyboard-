@@ -5,6 +5,6 @@ It's still a starting simple keyboard, if you want to modify it and use as proje
 
 If you liked this, leave a star! ⭐
 
-Also Check out other Projects!!!
+Also Check out other Projects as Well !!!
 
 ![Output](https://github.com/Aditya020224/AI-Virtual-Keyboard-/assets/96903392/72611903-c329-4243-90f3-d095023bbdce)
